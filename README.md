@@ -1,0 +1,2 @@
+# Event-Management-System
+Event management is the application of management to the creation and development of large scale events such as festivals, ceremonies, formal parties, concerts, or conventions. It is needed everywhere in many businesses like retail, sport, finance, etc. The objective of this application is to develop a system that effectively manages all the data related to the various events that take place in an organization like it works with budgets, schedules, and venues to create the best possible events for their clients.
